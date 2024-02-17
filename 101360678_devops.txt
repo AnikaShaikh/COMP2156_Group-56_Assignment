@@ -1,0 +1,6 @@
+COMP 2156 - Dev Ops is a course offered at George Brown College in Toronto, Ontario,
+focusing on the principles and practices of DevOps, which is the integration of development and operations in the software development lifecycle.
+The course covers topics such as continuous integration, continuous delivery, infrastructure as code, automation, 
+monitoring, and collaboration tools. Students learn how to streamline the software development process, improve 
+deployment frequency, and enhance overall product quality by implementing DevOps methodologies and tools. 
+The course typically includes hands-on projects and assignments to reinforce learning outcomes and prepare students for real-world scenarios in the field of software development and IT operations.
