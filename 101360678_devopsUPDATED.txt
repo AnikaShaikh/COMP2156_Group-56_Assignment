@@ -1,5 +1,7 @@
-DEVOPS 2156, a course offered at George Brown College in Toronto, Ontario, delves into the principles and practices of DevOps, which entails seamlessly integrating 
-development and operations throughout the software development lifecycle. The curriculum encompasses various subjects such as continuous integration, continuous delivery, 
-infrastructure as code, automation, monitoring, and collaborative tools. Through this course, students acquire skills to streamline the software development process, increase
-deployment frequency, and elevate product quality by implementing DevOps methodologies and utilizing relevant tools. Hands-on projects and assignments are integral components 
-of the course, reinforcing learning outcomes and equipping students for real-world scenarios in the realms of software development and IT operations.
+DEVOPS 2156, a course offered at George Brown College in Toronto, Ontario, delves into the principles and practices of DevOps,
+which entails seamlessly integrating development and operations throughout the software development lifecycle. The curriculum
+encompasses various subjects such as continuous integration, continuous delivery, infrastructure as code, automation, monitoring,
+and collaborative tools. Through this course, students acquire skills to streamline the software development process, increase
+deployment frequency, and elevate product quality by implementing DevOps methodologies and utilizing relevant tools. Hands-on
+projects and assignments are integral components of the course, reinforcing learning outcomes and equipping students for real-world
+scenarios in the realms of software development and IT operations.
