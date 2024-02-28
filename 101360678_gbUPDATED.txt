@@ -1,6 +1,7 @@
 Situated in Toronto, Ontario, George Brown College is a prestigious post-secondary establishment renowned for its diverse
-array of certificate, diploma, degree, and continuing education programs. Since its establishment in 1967, the college has
-been a hub for education in fields spanning business, hospitality, health sciences, community services, arts, design, and
-technology. Noteworthy for its robust industry affiliations, hands-on learning experiences, and dedication to fostering practical
-skills, George Brown College offers an enriching educational journey. Its multiple campuses scattered across downtown Toronto
-cater to a wide spectrum of students, ensuring a dynamic and inclusive learning environment that embraces individuals from varied backgrounds.
+array of certificate, diploma, degree, and continuing education programs. Since its establishment in 1967, the college has been 
+a hub for education in fields spanning business, hospitality, health sciences, community services, arts, design, and
+technology. Noteworthy for its robust industry affiliations, hands-on learning experiences, and dedication to fostering
+practical skills, George Brown College offers an enriching educational journey. Its multiple campuses scattered across downtown
+Toronto cater to a wide spectrum of students, ensuring a dynamic and inclusive learning environment that embraces individuals from
+varied backgrounds.
